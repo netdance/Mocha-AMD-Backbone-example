@@ -1,0 +1,34 @@
+{
+  "name": "Mocha-AMD-Backbone-example",
+  "version": "0.1.0",
+  "homepage": "https://github.com/netdance/Mocha-AMD-Backbone-example",
+  "authors": [
+    "Jim Driscoll <jamesgdriscoll@gmail.com>"
+  ],
+  "description": "Test setup for require and mocha",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "chai-jquery": "~1.1",
+    "chai-backbone": "*",
+    "chai": "~1.8",
+    "mocha": "~1.15",
+    "sinonjs": "~1.7.3",
+    "sinon-chai": "~2.4",
+    "squire": "*"
+  },
+  "dependencies": {
+    "jquery": "~2",
+    "underscore": "~1",
+    "backbone": "~1",
+    "requirejs": "~2.1",
+    "requirejs-text": "~2.0"
+  }
+}
