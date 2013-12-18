@@ -1,7 +1,7 @@
-Mocha AMD example
+Mocha AMD Backbone example
 ========================================
 
-An example using Mocha in combination with RequireJS / require.js and Grunt (alongside Chai, Sinon.JS, and Squire.js).
+An example using Backbone in combination with Mocha.
 
 
 Usage
