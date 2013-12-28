@@ -4,7 +4,7 @@ Mocha AMD Backbone example
 An example using Backbone in combination with Mocha.
 
 
-# THIS CODE IS NOT YET EVEN FULLY STARTED, AND SHOULD NOT BE RELIED ON IN ANY WAY
+## **THIS CODE IS NOT YET EVEN FULLY STARTED, AND SHOULD NOT BE RELIED ON IN ANY WAY**
 
 
 Usage
